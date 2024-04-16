@@ -1,7 +1,6 @@
 import React from 'react'
-import './Mans.css'
 
-function Mans() {
+function Home() {
   return (
     <div>
       
@@ -9,4 +8,4 @@ function Mans() {
   )
 }
 
-export default Mans
+export default Home

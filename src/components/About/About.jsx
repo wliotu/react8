@@ -1,12 +1,11 @@
 import React from 'react'
-import './Mans.css'
 
-function Mans() {
+function About() {
   return (
     <div>
-      
+      <h1>About</h1>
     </div>
   )
 }
 
-export default Mans
+export default About
