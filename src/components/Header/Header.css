@@ -1,7 +1,18 @@
 .container {
   justify-content: space-between;
+  background-color: rgb(44, 70, 37);
+  border-radius: 20px;
+  margin-top: 20px;
 }
 
 .header_link-item:not(:last-child) {
-  padding: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
 }
+
+.header_link {
+  margin-left: 40px;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 0.812);
+}
+  
